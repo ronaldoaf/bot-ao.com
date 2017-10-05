@@ -1,0 +1,8 @@
+# Use PHP5 Single php.ini as default
+#AddHandler application/x-httpd-php5s .php
+
+
+#AuthType Basic
+#AuthName "biscuila"
+#require valid-user
+#AuthUserFile "/home/apostem1/.htpasswds/public_html/editor/passwd"

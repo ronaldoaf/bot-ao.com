@@ -1,0 +1,6 @@
+[02-Oct-2017 13:54:24 America/Chicago] PHP Notice:  Undefined variable: base_URL in /home/hg1fo340/public_html/bot/TC_API.php on line 13
+[02-Oct-2017 13:55:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE), expecting function (T_FUNCTION) in /home/hg1fo340/public_html/bot/TC_API.php on line 8
+[02-Oct-2017 13:59:07 America/Chicago] PHP Parse error:  syntax error, unexpected '(' in /home/hg1fo340/public_html/bot/TC_API.php on line 13
+[03-Oct-2017 10:26:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$VALUES_tc_ligas' (T_VARIABLE) in /home/hg1fo340/public_html/bot/tc_insert_stats_e_jogos.php on line 20
+[03-Oct-2017 10:26:37 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home/hg1fo340/public_html/bot/tc_insert_stats_e_jogos.php on line 25
+[03-Oct-2017 10:26:57 America/Chicago] PHP Notice:  Undefined variable: VALUES in /home/hg1fo340/public_html/bot/tc_insert_stats_e_jogos.php on line 23

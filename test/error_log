@@ -1,0 +1,7 @@
+[02-Oct-2017 14:08:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/hg1fo340/public_html/test/tc.php on line 7
+[02-Oct-2017 14:56:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/hg1fo340/public_html/bot/TC_API.php on line 11
+[02-Oct-2017 14:59:47 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/hg1fo340/public_html/bot/TC_API.php on line 16
+[02-Oct-2017 15:00:21 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/hg1fo340/public_html/bot/TC_API.php on line 16
+[02-Oct-2017 15:00:25 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/hg1fo340/public_html/bot/TC_API.php on line 16
+[02-Oct-2017 15:00:28 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/hg1fo340/public_html/bot/TC_API.php on line 16
+[03-Oct-2017 07:43:35 America/Chicago] PHP Fatal error:  Call to undefined function TodayListUpcoming() in /home/hg1fo340/public_html/bot/TC_API.php on line 33
